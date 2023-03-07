@@ -11,7 +11,8 @@ int main()
     // memset(a, 0, sizeof(a)); // every byte: 0000 0000
     // memset(a, 1, sizeof(a)); // every byte: 0000 0001 => 16843009
     // memset(a, 2, sizeof(a)); // every byte: 0000 0010 => 33686018
-    memset(a, -1, sizeof(a)); // => -1
+    // memset(a, -1, sizeof(a)); // => -1
+    memset(a, -1, 20); // => -1
 
     // 用 memset 来初始化数组比 for 快很多
 

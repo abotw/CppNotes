@@ -2,6 +2,7 @@
 
 ### Quicklinks
 
+* [《 Hello 算法 》](https://www.hello-algo.com/)
 * [语法基础课](https://www.acwing.com/activity/content/introduction/21/) - Acwing
 * [曼哈顿距离](https://oi-wiki.org/geometry/distance/#%E6%9B%BC%E5%93%88%E9%A1%BF%E8%B7%9D%E7%A6%BB) - oi-wiki
 * [欧氏距离](https://oi-wiki.org/geometry/distance/#%E6%AC%A7%E6%B0%8F%E8%B7%9D%E7%A6%BB) - oi-wiki
